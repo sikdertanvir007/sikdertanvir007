@@ -41,7 +41,7 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 
 ## 🔗 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-@sikdertanvir007-181717?logo=github&style=flat-square)](https://github.com/sikdertanvir007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/mehrab-hasan-tanvir-9a9022239/)
 ✉️ EMAIL: [mehrabhasantanvir@gmail.com](mailto:)
 
 ---
