@@ -64,7 +64,7 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 > (Use GitHub profile settings to pin at least these three repositories)
 
 ### 1. Tourism Website (Client)
-**Live:** [] | **Repo:** `https://github.com/sikdertanvir007/b11a12-client-side.git`  
+**Live:** [ https://lifestream-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a12-client-side.git`  
 Short: A responsive tourism landing site with interactive destination cards and booking UI.
 
 ### 2. React Portfolio (Client)
