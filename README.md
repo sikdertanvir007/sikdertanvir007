@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" style="width:100%; max-height:250px; object-fit:cover;" />
+  <img src="https://github.com/sikdertanvir007/sikdertanvir007/blob/main/My%20github%20profile%20banner.png" alt="Banner" style="width:100%; max-height:250px; object-fit:cover;" />
 </p>
 
 # 👋 Hi, I'm Mehrab Hasan Tanvir
@@ -40,7 +40,7 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 ---
 
 ## 🔗 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-@YOUR_GITHUB_USERNAME-181717?logo=github&style=flat-square)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-@sikdertanvir007-181717?logo=github&style=flat-square)](https://github.com/sikdertanvir007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
 [![Twitter](https://img.shields.io/badge/Twitter-@YOUR_TWITTER-blue?logo=twitter&style=flat-square)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome&style=flat-square)](YOUR_PORTFOLIO_LINK)
