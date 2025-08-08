@@ -63,24 +63,17 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 ## 📌 Pinned projects
 > (Use GitHub profile settings to pin at least these three repositories)
 
-### 1. Tourism Website (Client)
+### 1. LifeStream (Client)
 **Live:** [ https://lifestream-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a12-client-side.git`  
 Short: A responsive tourism landing site with interactive destination cards and booking UI.
 
-### 2. React Portfolio (Client)
+### 2. Foodish (Client)
 **Live:** [ https://foodish-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a10-client-side.git`  
 Short: Personal portfolio with projects, blog links, and contact form.
 
-### 3. Travel Planner (Client)
-**Live:** [demo link] | **Repo:** `https://github.com/sikdertanvir007/b11a11-client-side.git`  
+### 3. MegaMerx (Client)
+**Live:** [ https://megamerx-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a11-client-side.git`  
 Short: Client-side app with search/filter for trips, dynamic UI and animations.
 
----
 
-## 📌 How to update
-1. Replace placeholders (`YOUR_GITHUB_USERNAME`, links, and `assets/banner.png`) with real values.  
-2. Upload `banner.png` to `assets/` folder in this repo.  
-3. Pin repos from Profile → Customize profile → Pin repositories.
-
----
 
