@@ -49,15 +49,15 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 ## 📊 GitHub Stats
 <!-- Replace USERNAME with your GitHub username -->
 <p align="center">
-  <img alt="Mehrab's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight" />
+  <img alt="Mehrab's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sikdertanvir007&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikdertanvir007&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sikdertanvir007&theme=tokyonight" />
 </p>
 
 ---
