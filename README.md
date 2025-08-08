@@ -56,7 +56,8 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikdertanvir007&layout=compact&theme=tokyonight" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sikdertanvir007" alt="GitHub Streak" /></a>
+<p align ="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sikdertanvir007" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
