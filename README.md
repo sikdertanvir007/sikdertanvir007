@@ -68,7 +68,7 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 Short: A responsive tourism landing site with interactive destination cards and booking UI.
 
 ### 2. React Portfolio (Client)
-**Live:** [ https://foodish-client-side.web.app/] | **Repo:** `YOUR_GITHUB_USERNAME/react-portfolio`  
+**Live:** [ https://foodish-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a10-client-side.git`  
 Short: Personal portfolio with projects, blog links, and contact form.
 
 ### 3. Travel Planner (Client)
