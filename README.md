@@ -66,15 +66,15 @@ I’m a MERN stack developer specializing in building responsive, accessible, an
 
 ### 1. LifeStream (Client)
 **Live:** [ https://lifestream-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a12-client-side.git`  
-Short: A responsive tourism landing site with interactive destination cards and booking UI.
+Short: A responsive blood donation  landing site with interactive destination cards and booking UI.
 
 ### 2. Foodish (Client)
 **Live:** [ https://foodish-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a10-client-side.git`  
-Short: Personal portfolio with projects, blog links, and contact form.
+Short: A food accessories base web app where customers can find their demanded food.
 
 ### 3. MegaMerx (Client)
 **Live:** [ https://megamerx-client-side.web.app/] | **Repo:** `https://github.com/sikdertanvir007/b11a11-client-side.git`  
-Short: Client-side app with search/filter for trips, dynamic UI and animations.
+Short: A B2B wholesale app where consumers can find products of their own interest.
 
 
 
