@@ -72,7 +72,7 @@ Short: A responsive tourism landing site with interactive destination cards and 
 Short: Personal portfolio with projects, blog links, and contact form.
 
 ### 3. Travel Planner (Client)
-**Live:** [demo link] | **Repo:** `YOUR_GITHUB_USERNAME/travel-planner`  
+**Live:** [demo link] | **Repo:** `https://github.com/sikdertanvir007/b11a11-client-side.git`  
 Short: Client-side app with search/filter for trips, dynamic UI and animations.
 
 ---
